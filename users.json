@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "5f489f68d04eba31588ed17e"
+  },
+  "phone": [
+    "0905377903",
+    "0909399387"
+  ],
+  "role": "admin",
+  "name": "admin",
+  "email": "admin@admin.com",
+  "password": "$2b$12$xmXcuYKTYkz0dYe1hJPoKOyH571z2mrIYI8prSWR/E7ZHEyUISJ/6",
+  "address": [
+    {
+      "_id": {
+        "$oid": "5f489f68d04eba31588ed17f"
+      },
+      "name": "My Dorm",
+      "content": "KTX Khu B, Đông Hòa, Dĩ An, Bình Dương"
+    },
+    {
+      "_id": {
+        "$oid": "5f489f68d04eba31588ed180"
+      },
+      "name": "My School",
+      "content": "Linh Trung, Thủ Đức, TPHCM"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f489fc67ec56d3c4ce0afb0"
+  },
+  "phone": [
+    "0905377903",
+    "0909399387"
+  ],
+  "role": "user",
+  "name": "Nguyen Quoc Viet",
+  "email": "admin1@admin.com",
+  "password": "$2b$12$DLv9bbLPM4iv.bm1ix1iI.mV9hoFVw4bNJSBNIQk4zWykkdCeqzZ6",
+  "address": [
+    {
+      "_id": {
+        "$oid": "5f489fc67ec56d3c4ce0afb1"
+      },
+      "name": "My Dorm",
+      "content": "KTX Khu B, Đông Hòa, Dĩ An, Bình Dương"
+    },
+    {
+      "_id": {
+        "$oid": "5f489fc67ec56d3c4ce0afb2"
+      },
+      "name": "My School",
+      "content": "Linh Trung, Thủ Đức, TPHCM"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f489fca7ec56d3c4ce0afb3"
+  },
+  "phone": [
+    "0905377903",
+    "0909399387"
+  ],
+  "role": "user",
+  "name": "Nguyen Quoc Viet",
+  "email": "admin2@admin.com",
+  "password": "$2b$12$x5nab2r4XZ.FeO1OEqbAw.mlxJh5WR.YgBcCUixtKWC2tSMMY84q.",
+  "address": [
+    {
+      "_id": {
+        "$oid": "5f489fca7ec56d3c4ce0afb4"
+      },
+      "name": "My Dorm",
+      "content": "KTX Khu B, Đông Hòa, Dĩ An, Bình Dương"
+    },
+    {
+      "_id": {
+        "$oid": "5f489fca7ec56d3c4ce0afb5"
+      },
+      "name": "My School",
+      "content": "Linh Trung, Thủ Đức, TPHCM"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f489fce7ec56d3c4ce0afb6"
+  },
+  "phone": [
+    "0905377903",
+    "0909399387"
+  ],
+  "role": "user",
+  "name": "Nguyen Quoc Viet",
+  "email": "admin3@admin.com",
+  "password": "$2b$12$i4xZoMdHM138pzJkyOgCVOZMiwNp64xJKrzkC82dsltoGZCtE4dEK",
+  "address": [
+    {
+      "_id": {
+        "$oid": "5f489fce7ec56d3c4ce0afb7"
+      },
+      "name": "My Dorm",
+      "content": "KTX Khu B, Đông Hòa, Dĩ An, Bình Dương"
+    },
+    {
+      "_id": {
+        "$oid": "5f489fce7ec56d3c4ce0afb8"
+      },
+      "name": "My School",
+      "content": "Linh Trung, Thủ Đức, TPHCM"
+    }
+  ],
+  "__v": 0
+}]

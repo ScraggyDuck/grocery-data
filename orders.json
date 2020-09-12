@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "5f490a6478f8583148396891"
+  },
+  "status": 1,
+  "user": {
+    "$oid": "5f489f68d04eba31588ed17e"
+  },
+  "deliveryAddress": "KTX Khu B",
+  "discount": 50,
+  "deliveryTime": {
+    "$date": "2020-08-19T17:00:00Z"
+  },
+  "deliveryFee": 30,
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f490a6478f8583148396892"
+      },
+      "productId": {
+        "$oid": "5f37a804dd171c1dcc923793"
+      },
+      "quantity": 3
+    },
+    {
+      "_id": {
+        "$oid": "5f490a6478f8583148396893"
+      },
+      "productId": {
+        "$oid": "5f37a804dd171c1dcc923794"
+      },
+      "quantity": 5
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-08-28T13:45:08.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f490b1ceb8b0a2ec0bd4e06"
+  },
+  "status": 1,
+  "user": {
+    "$oid": "5f489f68d04eba31588ed17e"
+  },
+  "deliveryAddress": "KTX Khu B",
+  "discount": 50,
+  "deliveryTime": {
+    "$date": "2020-08-19T17:00:00Z"
+  },
+  "deliveryFee": 30,
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f490b1ceb8b0a2ec0bd4e07"
+      },
+      "productId": {
+        "$oid": "5f37a804dd171c1dcc923793"
+      },
+      "quantity": 3
+    },
+    {
+      "_id": {
+        "$oid": "5f490b1ceb8b0a2ec0bd4e08"
+      },
+      "productId": {
+        "$oid": "5f37a804dd171c1dcc923794"
+      },
+      "quantity": 5
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-08-28T13:48:12.240Z"
+  },
+  "__v": 0
+}]

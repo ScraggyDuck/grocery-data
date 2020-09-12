@@ -1,0 +1,488 @@
+[{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e4a"
+  },
+  "icon": "FruitsVegetable",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Fruits & Vegetables",
+  "slug": "fruits-and-vegetables",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e4b"
+      },
+      "title": "Fruits",
+      "slug": "fruits"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e4c"
+      },
+      "title": "vegetables",
+      "slug": "vegetables"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e4d"
+  },
+  "icon": "MeatFish",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Meat & Fish",
+  "slug": "meat-and-fish",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e4e"
+      },
+      "title": "Fresh Fish",
+      "slug": "fresh-fish"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e4f"
+      },
+      "title": "Meat",
+      "slug": "meat"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e50"
+  },
+  "icon": "Snacks",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Snacks",
+  "slug": "snacks",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e51"
+      },
+      "title": "Biscuits",
+      "slug": "biscuits"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e52"
+      },
+      "title": "Chocolates",
+      "slug": "chocolates"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e53"
+      },
+      "title": "Crisps",
+      "slug": "crisps"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e54"
+      },
+      "title": "Noodles",
+      "slug": "noodles"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e55"
+      },
+      "title": "Nuts",
+      "slug": "nuts"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e56"
+      },
+      "title": "Pasta",
+      "slug": "pasta"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e57"
+      },
+      "title": "Sauce",
+      "slug": "sauce"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e58"
+      },
+      "title": "Soup",
+      "slug": "soup"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e59"
+  },
+  "icon": "PetCare",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Pet Care",
+  "slug": "petcare",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e5a"
+      },
+      "title": "Cat Food",
+      "slug": "catfood"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e5b"
+      },
+      "title": "Dog Food",
+      "slug": "dogfood"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e5c"
+      },
+      "title": "KItten Food",
+      "slug": "kittenfood"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e5d"
+      },
+      "title": "Pet Accessories",
+      "slug": "petaccessories"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e5e"
+  },
+  "icon": "HomeCleaning",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Home & Cleaning",
+  "slug": "home-cleaning",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e5f"
+      },
+      "title": "Air Freshner",
+      "slug": "air_freshner"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e60"
+      },
+      "title": "Cleaning Products",
+      "slug": "cleaning_products"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e61"
+      },
+      "title": "Dishwasher",
+      "slug": "dishwasher"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e62"
+      },
+      "title": "Kitchen Accessories",
+      "slug": "kitchen_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e63"
+      },
+      "title": "Laundry",
+      "slug": "laundry"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e64"
+      },
+      "title": "Pest Control",
+      "slug": "Pest_control"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e65"
+  },
+  "icon": "Dairy",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Dairy",
+  "slug": "dairy",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e66"
+      },
+      "title": "Butter",
+      "slug": "butter"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e67"
+      },
+      "title": "Egg",
+      "slug": "egg"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e68"
+      },
+      "title": "Milk",
+      "slug": "milk"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e69"
+      },
+      "title": "Milk Cream",
+      "slug": "milk_cream"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e6a"
+      },
+      "title": "Powder Milk",
+      "slug": "Powder_Milk"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e6b"
+      },
+      "title": "Yogourt",
+      "slug": "yogourt"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e6c"
+  },
+  "icon": "Cooking",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Cooking",
+  "slug": "cooking",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e6d"
+      },
+      "title": "Oil",
+      "slug": "oil"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e6e"
+      },
+      "title": "Rice",
+      "slug": "rice"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e6f"
+      },
+      "title": "Salt & Sugar",
+      "slug": "Salt_sugar"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e70"
+      },
+      "title": "Spices",
+      "slug": "milk_cream"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e71"
+  },
+  "icon": "Breakfast",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Breakfast",
+  "slug": "breakfast",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e72"
+      },
+      "title": "Bread",
+      "slug": "bread"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e73"
+      },
+      "title": "Cereal",
+      "slug": "cereal"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e74"
+      },
+      "title": "Honey",
+      "slug": "honey"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e75"
+      },
+      "title": "Jam",
+      "slug": "jam"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e76"
+      },
+      "title": "Mayonnaise",
+      "slug": "mayonnaise"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e77"
+      },
+      "title": "Oats",
+      "slug": "oats"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e78"
+  },
+  "icon": "Beverage",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Beverage",
+  "slug": "beverage",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e79"
+      },
+      "title": "Coffee",
+      "slug": "coffee"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e7a"
+      },
+      "title": "Energy Drinks",
+      "slug": "energy_drinks"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e7b"
+      },
+      "title": "Juice",
+      "slug": "juice"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e7c"
+      },
+      "title": "Fizzy Drinks",
+      "slug": "fizzy_drinks"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e7d"
+      },
+      "title": "Syrup & powder",
+      "slug": "syrup_powder"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e7e"
+      },
+      "title": "Tea",
+      "slug": "tea"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e7f"
+      },
+      "title": "Water",
+      "slug": "water"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f38f572acfd74347cfa5e80"
+  },
+  "icon": "BeautyHealth",
+  "createdAt": {
+    "$date": "2020-08-16T08:59:20.239Z"
+  },
+  "title": "Beauty & Health",
+  "slug": "health_beauty",
+  "children": [
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e81"
+      },
+      "title": "Bath",
+      "slug": "bath"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e82"
+      },
+      "title": "Cream",
+      "slug": "cream"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e83"
+      },
+      "title": "Deodorant",
+      "slug": "deodorant"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e84"
+      },
+      "title": "Face Care",
+      "slug": "face_care"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e85"
+      },
+      "title": "Oral Care",
+      "slug": "Oral_care"
+    },
+    {
+      "_id": {
+        "$oid": "5f38f572acfd74347cfa5e86"
+      },
+      "title": "Shaving Needs",
+      "slug": "shaving_needs"
+    }
+  ],
+  "__v": 0
+}]
